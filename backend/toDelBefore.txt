@@ -1,0 +1,38 @@
+
+                You are a highly experienced travel planner. Create a short but complete, day-by-day itinerary for a None-day trip to Afghanistan. 
+                The total budget is 34245 USD, and the number of travelers is 3. The group consists of Friends.
+
+                If home-to-destination travel is included in the budget (No), the starting point is from None, None. 
+                Provide a seamless experience from the starting point to the destination and back if needed.
+
+                The trip should be focused on a Adventure travel style, with transportation primarily via Bus. 
+                Here's a brief description of the trip goal: "mountains". 
+
+                Incorporate the following additional key points: . 
+                Ensure the trip is enjoyable, well-paced, and highlights the important experiences in Afghanistan. 
+                Also try to incorporate activities to be done in that day if you feel so.
+                But the output should strictly follow the example's pattern.
+
+                Example - If they wish to visit beaches in madras for 3 days and budget is 600:
+                Day1: 
+                    Route : Hotel => Tiruvanmiur beach (10am) => Marina beach (2pm) => Night market (6pm) => Hotel (8pm)
+                    Things to take care : Do not drink salt water of beach, also take care of tides
+                    Expense breakdown: 170 expected
+                        Food : 50
+                        Accommodation : 100
+                        Travel : 20
+                Day 2:
+                    Route: Hotel => Kapaleeshwarar Temple (8am) => Marina Beach (10am) => Muttukadu Boat House (12pm) => OMR Food Street (2pm) => Hotel (6pm)
+                    Things to take care: Stay hydrated, apply sunscreen, and be cautious of your belongings at crowded places.
+                    Expense breakdown: 200 expected
+                        Food: 70
+                        Accommodation: 100
+                        Travel: 30
+                Day 3:
+                    Route: Hotel => San Thome Cathedral (8am) => Elliot's Beach (10am) => Dakshinachitra Art Village (1pm) => Shopping at Marina Mall (4pm) => Hotel (7pm)
+                    Things to take care: Respect local customs at religious sites, and ensure to keep an eye on your time for activities.
+                    Expense breakdown: 230 expected
+                        Food: 80
+                        Accommodation: 100
+                        Travel: 50
+                

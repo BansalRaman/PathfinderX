@@ -1,0 +1,33 @@
+.response-container {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Slight transparency for a clean look */
+    margin-top: 30px;
+    border-radius: 8px;
+}
+
+.response-title {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.itinerary-card {
+    /* background-color: #f7f7f7;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; */
+    /* background-color: #fff; */
+    padding: 20px;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color:hsl(from rgb(171, 141, 237) h s l) !important;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.day-title {
+    font-weight: 600;
+}
+
+.day-details {
+    color: #555;
+    margin-top: 10px;
+}
