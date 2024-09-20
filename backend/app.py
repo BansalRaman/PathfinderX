@@ -5,7 +5,7 @@ import google.generativeai as genai  # Import Gemini API classes
 
 
 # Set up API key for Gemini
-os.environ["GEMINI_API_KEY"] = "AIzaSyC6y0i6PtqMu-xzqonJhSCRbnslT9utCq8"
+os.environ["GEMINI_API_KEY"] = "API_KEY"
 app = Flask(__name__)
 CORS(app)  # Add CORS to the app
 
